@@ -1,0 +1,79 @@
+@media (min-width: 768px){
+
+    .styleCard { 
+        margin-top: 22%;
+        margin-bottom: 36%;
+        box-shadow: 4px 6px 19px -5px rgba(0,0,0,0.75);
+    }
+    .buttonLogin{
+        margin-left:-27%;
+    }
+    
+    .formSize{
+        width:   180%;
+    }
+    .createVisitors{
+        width: 50%;
+        padding: 6% 0% 5% 10%;
+        margin-left: 26%;
+        border-radius: 5%;
+    }
+    .marginHeaderCreateVisitors{
+        margin-bottom: 10%;
+        margin-left: 1%;
+    }
+    .marginBottomCreateVisitors{
+        margin-left: 236%;
+        margin-top: 40%;
+    }
+    .bottomAccordion{
+        margin-left: 40%;
+        text-decoration:none !important;
+        color:#2d66a5;
+        font-weight: bold;
+    }
+    .bottomAccordion2{
+        margin-left: 43%;
+        text-decoration:none !important;
+        color:#2d66a5;
+        font-weight: bold;
+    }
+   
+}
+@media (max-width:768px){
+    .createVisitors{
+        padding: 6% 6% 5% 10%;
+        margin-top: 7%;
+        border-radius: 5%;
+    }
+    .marginBottomCreateVisitors{
+        margin-left: 34%;
+    }
+    .bottomAccordion{
+        margin-left: 25%;
+        text-decoration:none !important;
+        color:#2d66a5;
+        font-weight: bold;
+    }
+    .bottomAccordion2{
+        margin-left: 35%;
+        text-decoration:none !important;
+        color:#2d66a5;
+        font-weight: bold;
+    }
+}
+
+.createVisitors{
+    background-color: #f8f9fa;
+    box-shadow: 4px 6px 19px -5px rgba(0,0,0,0.75);
+    margin-bottom: 10%;
+}
+
+.buttonColor{
+    background-color: #3a3a8c!important;
+    border: none;
+}
+.background{
+    background: rgb(2,0,36);
+    background: linear-gradient(357deg, rgba(2,0,36,1) 0%, rgba(73,73,167,1) 50%, rgba(0,212,255,1) 100%);
+}
